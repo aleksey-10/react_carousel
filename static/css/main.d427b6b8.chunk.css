@@ -1,0 +1,2 @@
+.Carousel{border:1px solid #d3d3d3;border-radius:10px;padding:50px 0;overflow:hidden;margin:0 auto}.Carousel__list{display:flex;list-style-type:none;padding-left:0}.Carousel__buttons{display:flex;justify-content:space-around}.Carousel__button{cursor:pointer;padding:15px;background:1px solid #d3d3d3;border-radius:10px;text-transform:uppercase;border:1px solid #000;transition:background-color .3s}.Carousel__button:focus,.Carousel__button:hover{background-color:#87cefa;outline:none}
+/*# sourceMappingURL=main.d427b6b8.chunk.css.map */
